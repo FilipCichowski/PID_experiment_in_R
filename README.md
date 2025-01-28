@@ -1,3 +1,5 @@
+![demo](./demo.png)
+
 # PID Tuning for 3D Printer Temperature Control
 
 This R Shiny application simulates and optimizes a PID controller for managing the temperature of a 3D printer's hotend or heated bed. By adjusting the proportional, integral, and derivative (PID) parameters, the app helps achieve stable and accurate temperature control, essential for high-quality prints.
